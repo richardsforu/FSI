@@ -1,0 +1,21 @@
+Types of Testing
+1. Manual 
+2. Automated
+
+
+2.Automated
+---------------
+1. Junit
+2. Nunit
+3. Embunit
+4. TestNG
+5. HtmlUnit
+1. Junit
+-------------
+
+
+
+
+
+
+
